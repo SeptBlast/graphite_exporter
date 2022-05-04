@@ -4,3 +4,5 @@
 /graphite_exporter
 *.tar.gz
 /getool
+.dccache
+.vscode/
