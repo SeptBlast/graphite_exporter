@@ -1,5 +1,7 @@
 module github.com/prometheus/graphite_exporter
 
+go 1.18
+
 require (
 	github.com/alecthomas/units v0.0.0-20211218093645-b94a6e3cc137
 	github.com/go-graphite/go-whisper v0.0.0-20220708094842-c95739c8e0e7
@@ -44,5 +46,3 @@ require (
 	gopkg.in/yaml.v2 v2.4.0 // indirect
 	gopkg.in/yaml.v3 v3.0.1 // indirect
 )
-
-go 1.17

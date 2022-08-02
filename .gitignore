@@ -4,3 +4,4 @@
 /graphite_exporter
 *.tar.gz
 /getool
+vendor/
